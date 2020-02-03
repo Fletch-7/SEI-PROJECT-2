@@ -1,0 +1,21 @@
+@import './HomePage/hero.scss';
+@import './HomePage/navbar.scss';
+
+@import './HeroDirectory/heroIndex.scss';
+@import './HeroDirectory/heroCard.scss';
+@import './ExternalLinks/externalLinks.scss';
+
+@import './DisplayHero/heroProfile.scss';
+
+@import './HeroBattles/singlePlayer.scss';
+@import './HeroBattles/singlePlayerCard.scss';
+
+* {
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+section {
+  height: 90vh;
+  overflow-y: scroll;
+}
