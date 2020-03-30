@@ -49,17 +49,22 @@ The project is a supehero Website where users can read and review information on
 The website has a Top Trumps like feature where users can compare users and see whether a users favourite superhero can beat their nemesis. This is done by comparing the heroes/villains statistics to produce a winner and loser.
 
 The website also features a superhero news section whiuch has links to a variety of superhero and comic websites where users can continue their search.
-
+* HOMEPAGE
 ![Homepage](readmefiles/laptophome.png)
 
+* HERO INDEX
 ![Hero Index ft. searchbar](readmefiles/index.png)
 
+* COMPARISON PAGE PT.1
 ![Comparison part 1](readmefiles/battle1.png)
 
+* COMPARISON PAGE PT.2
 ![Comparison part 2](readmefiles/battle2.png)
 
+* COMPARISON PAGE PT.3
 ![Comparison part 3](readmefiles/winlose.png)
 
+* HERO NEWS PAGE
 ![Superhero  and comic links/news](readmefiles/heronews.png)
 
 # Main Features & Challenges
