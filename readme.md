@@ -135,7 +135,9 @@ There are two main search types that the user is allowed to use in this website.
 ## Challenges and Improvements
 
 ### Wins
-I learnt a lot when building this app. Finding out how to effectively use a basic and advanced search function in conjunction with a third party API. I really enjoyed making the comparison tool as I used to love Top Trumps as a child, so seeing how I could implement this in javascript was a great feeling.
+* I learnt a lot when building this app. Finding out how to effectively use a basic and advanced search function in conjunction with a third party API. I really enjoyed making the comparison tool as I used to love Top Trumps as a child, so seeing how I could implement this in javascript was a great feeling.
+
+* My first oppotunity at pair-programming was a great experience and it taught me the importance of effectively communicating ideas and code to team-mates in a clear and concise well. Overall, I found programming to be more fun than challenging as I thought it was easy to bounce off someone else to make ideas and solutions to create a project that I am proud of.
 
 ### Challenges
 The main challenges:
