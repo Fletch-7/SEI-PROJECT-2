@@ -56,10 +56,10 @@ The website also features a superhero news section whiuch has links to a variety
 ![Hero Index ft. searchbar](readmefiles/index.png)
 
 * COMPARISON PAGE PT.1
-![Comparison part 1](readmefiles/battle1.png)
+![Comparison part 1](readmefiles/battlep1.png)
 
 * COMPARISON PAGE PT.2
-![Comparison part 2](readmefiles/battle2.png)
+![Comparison part 2](readmefiles/battlep2.png)
 
 * COMPARISON PAGE PT.3
 ![Comparison part 3](readmefiles/winlose.png)
